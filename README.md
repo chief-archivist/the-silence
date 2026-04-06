@@ -22,7 +22,7 @@ But surviving the meteor is just the beginning. Once you reach the stars, you st
 
 ### 🎮 Play The Silence (Phase 1 – The Cradle)
 
-[▶️ Play Now](https://YOUR-USERNAME.github.io/the-silence/)
+[▶️ Play Now](https://chief-archivist.github.io/the-silence/)
 
 ---
 
